@@ -44,4 +44,4 @@ Editar as configurações ' Edit Configuration ' do xdebug,
 - O padrão é PHPSTORM
 
 
-![alt tag](skin/frontend/ambev/parceiro/images/xdebug-conf.png)
+![alt tag](images/xdebug-conf.png)
