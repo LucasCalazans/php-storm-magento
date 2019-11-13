@@ -2,7 +2,7 @@
 
 - [x] File templates to easily create Magento files (i.e.: layout.xml, registration.php):
 
-![File Templates][images/file-templates.png]
+![File Templates](images/file-templates.png)
 
 
 ## Include file templates into your PHP Storm
